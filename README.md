@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greentreegaming&label=Profile%20views&color=0e75b6&style=flat" alt="greentreegaming" /> </p>
 
-- 🔭 I’m currently working on [a Game Day Grill application](https://github.com/GreenTreeGaming/Game-Day-Grill)
+- 🔭 I’m currently working on a Real Estate Investment Company Website
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning about **Monetization thru AI**
 
-- 👯 I’m looking to collaborate on **any Roblox project**
+- 👯 I’m looking to collaborate on **any Web-Dev or Roblox project**
 
 - 🤝 I’m looking for help with **Flutter**
 
@@ -15,7 +15,7 @@
 
 - 📝 I upload tutorials at [https://www.youtube.com/channel/UCGI_sFJS1F-Vjo_WIsrFWYw](https://www.youtube.com/channel/UCGI_sFJS1F-Vjo_WIsrFWYw)
 
-- 💬 Ask me about **Roblox development**
+- 💬 Ask me about **Roblox development / UI Design**
 
 - 📫 How to reach me **karunsarvajith@gmail.com**
 
