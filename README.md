@@ -97,10 +97,10 @@ Game Development    ███████░░░ 70%
 ## Achievements Unlocked
 
 - 🥇 Started coding at age 6
-- 🥇 Published Roblox experiences
+- 🥇 Published numerous Roblox experiences (total visits >201M, revenue in the thousands)
 - 🥇 Built production web applications
-- 🥇 Created educational content on YouTube
-- 🥇 Survived debugging sessions that lasted until sunrise
+- 🥇 Made lots of fun educational content on YouTube
+- 🥇 Survived debugging sessions that lasted until sunrise (literally till 4 am lol)
 
 ---
 
