@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on a Real Estate Investment Company Website
 
-- 🌱 I’m currently learning about **Monetization thru AI**
+- 🌱 I’m currently learning about **Monetization with AI**
 
-- 👯 I’m looking to collaborate on **any Web-Dev or Roblox project**
+- 👯 I’m looking to collaborate on **any open-source or Roblox project**
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 👨‍💻 All of my projects are available at [-- NO LINK RIGHT NOW --](-- NO LINK RIGHT NOW --)
+- 👨‍💻 All of my projects are available on [my portfolio website](https://sarvajithkarun.com)
 
-- 📝 I upload tutorials at [https://www.youtube.com/channel/UCGI_sFJS1F-Vjo_WIsrFWYw](https://www.youtube.com/channel/UCGI_sFJS1F-Vjo_WIsrFWYw)
+- 📝 I upload Roblox tutorials at [https://www.youtube.com/channel/UCGI_sFJS1F-Vjo_WIsrFWYw](https://www.youtube.com/channel/UCGI_sFJS1F-Vjo_WIsrFWYw)
 
 - 💬 Ask me about **Roblox development / UI Design**
 
