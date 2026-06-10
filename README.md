@@ -14,7 +14,7 @@
 
 </div>
 
-## 🧑‍💻 Adventurer Information
+## Adventurer Information
 
 ```yaml
 Name: Sarvajith Karun
@@ -44,7 +44,7 @@ Today I'm focused on creating products at the intersection of:
 
 ---
 
-## ⚔️ Skill Tree
+## Skill Tree
 
 ```txt
 Python              ██████████ 100%
