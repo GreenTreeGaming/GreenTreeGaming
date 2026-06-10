@@ -1,4 +1,4 @@
-# ⚔️ Sarvajith Karun
+# Sarvajith Karun (சர்வஜித் கருண்)
 
 <div align="center">
 
@@ -18,29 +18,29 @@
 
 ```yaml
 Name: Sarvajith Karun
-Class: AI Engineer
+Class: Software + AI Engineer (Dual)
 Secondary Class: Entrepreneur
-Guild: Open Source
-Origin: Minnesota → Wisconsin
-Level: 18
+Guild: Startup Factory
+Origin: Minnesota → Wisconsin → San Francisco (in the very soon future)
+Level: 17
 Status: Online
 Current Quest: Building cool things with AI
 ```
 
 ---
 
-## 📖 Lore
+## Lore
 
 I started coding when I was **6 years old**.
 
-Since then I've built games, websites, developer tools, AI applications, and countless side projects.
+Since then I've built games, websites, developer tools, AI applications, models, and many other side projects.
 
 Today I'm focused on creating products at the intersection of:
 
-- 🤖 Artificial Intelligence
-- 🚀 Entrepreneurship
-- ⚙️ Software Engineering
-- 🌐 Full-Stack Development
+- Artificial Intelligence
+- Entrepreneurship
+- Software Engineering
+- Full-Stack Dev
 
 ---
 
@@ -57,16 +57,16 @@ Game Development    ███████░░░ 70%
 
 ---
 
-## 🎒 Inventory
+## My Inventory
 
-### ⚔️ Weapons
+### Weapons
 
 - Python
 - TypeScript
 - JavaScript
 - SQL
 
-### 🛡️ Armor
+### Armor
 
 - Docker
 - Git
@@ -74,7 +74,7 @@ Game Development    ███████░░░ 70%
 - AWS
 - PostgreSQL
 
-### 🔮 Legendary Artifacts
+### Legendary Artifacts
 
 - OpenAI
 - LangChain
@@ -84,17 +84,17 @@ Game Development    ███████░░░ 70%
 
 ---
 
-## 🎯 Active Quests
+## Active Quests
 
 - [ ] Build profitable AI products
-- [ ] Launch a startup
+- [ ] Launch a startup (YC one day)
 - [ ] Contribute more to open source
 - [ ] Master distributed systems
-- [ ] Ship something people love
+- [ ] Ship something people love :)
 
 ---
 
-## 🏆 Achievements Unlocked
+## Achievements Unlocked
 
 - 🥇 Started coding at age 6
 - 🥇 Published Roblox experiences
@@ -104,7 +104,7 @@ Game Development    ███████░░░ 70%
 
 ---
 
-## 👹 Current Boss Battles
+## Current Boss Battles
 
 ```txt
 [████████░░] AI Monetization
@@ -115,19 +115,19 @@ Game Development    ███████░░░ 70%
 
 ---
 
-## 📜 Quest Log
+## My Quest Log
 
-### 🤖 AI Projects
+### AI Projects
 
-Building tools powered by modern LLMs, automation, and intelligent systems.
+I want to build tools powered by modern LLMs and pure automation.
 
-### 🌐 Full-Stack Applications
+### Full-Stack Apps
 
-Designing and developing complete products from backend infrastructure to polished user experiences.
+I want to design and develop complete products from backend infrastructure to polished user experiences.
 
 ### 🎮 Game Development
 
-Experimenting with gameplay systems, UI design, and interactive experiences.
+I want to continue experimenting with newer gameplay systems, UI designing with Photoshop (+ Photopea), and build more interactive and fun games :).
 
 ---
 
@@ -139,17 +139,17 @@ Experimenting with gameplay systems, UI design, and interactive experiences.
 
 ---
 
-## 🤝 Join the Party
+## Join the Party :)
 
-🌐 Portfolio: https://sarvajithkarun.com
+→ Portfolio: https://sarvajithkarun.com
 
-💼 LinkedIn: https://linkedin.com/in/sarvajith-karun-2934672b0
+→ LinkedIn: https://linkedin.com/in/sarvajith-karun-2934672b0
 
-📺 YouTube: https://www.youtube.com/channel/UCGI_sFJS1F-Vjo_WIsrFWYw
+→ YouTube: https://www.youtube.com/channel/UCGI_sFJS1F-Vjo_WIsrFWYw
 
-🐦 Twitter/X: https://twitter.com/greentreeyt
+→ Twitter/X: https://twitter.com/greentreeyt
 
-📧 Email: karunsarvajith@gmail.com
+→ Email: karunsarvajith@gmail.com
 
 ---
 
@@ -164,6 +164,6 @@ If you're building something ambitious,
 working on AI,
 or just want to talk tech,
 
-feel free to reach out.
+feel free to reach out to me :)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
