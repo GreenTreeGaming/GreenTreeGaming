@@ -1,4 +1,4 @@
-# Sarvajith Karun (சர்வஜித் கருண்)
+# Sarvajith Karun
 
 <div align="center">
 
